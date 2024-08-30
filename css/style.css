@@ -934,6 +934,11 @@ ol {
 	width: calc(50% - 10px);
 }
 
+.gallery .gs-item.grid-extrawide {
+	width: calc(100% - 10px);
+}
+
+
 /*---------------------
   Team Section
 -----------------------*/
@@ -1233,6 +1238,14 @@ ol {
 .copyright-text a,
 .copyright-text i {
 	color: #f36100;
+}
+
+logo1 {
+  margin: 0 auto;
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  display: block;
 }
 
 /* ----------------------------------- Other Pages Styles ----------------------------------- */
